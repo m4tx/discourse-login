@@ -1,0 +1,4 @@
+DISCOURSE_USERNAME='user'
+DISCOURSE_PASSWORD='password'
+DISCOURSE_URL='https://example.com'
+DISCOURSE_TO_VISIT='t/example/1000'
