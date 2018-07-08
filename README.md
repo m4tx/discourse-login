@@ -1,7 +1,8 @@
 # discourse-login
 
 Simple shell script that helps getting the "Devotee" Discourse badge (for
-visiting a website for 365 consecutive days).
+visiting a website for 365 consecutive days). Basically, it opens given
+Discourse forum using curl, signs in the user and visits specified topic.
 
 ## Usage
 
