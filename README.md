@@ -28,8 +28,8 @@ Visited the website successfully at Sat Jul  7 15:19:28 CEST 2018
 
 If so, it means that everything is set up properly! You can now copy the script
 to `/usr/bin` or `~/.local/bin` if you want. You should also change the
-configuration file permissions to 600/400 permissions to make sure nobody but
-you (in the OS) can read it.
+configuration file permissions to 600/400 to make sure nobody but you (in
+the OS) can read it.
 
 ## cron
 
